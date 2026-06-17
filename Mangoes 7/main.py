@@ -504,7 +504,7 @@ def game(clock: pg.time.Clock, screen: pg.Surface):
 def main():
     # Creating the Screen
     screen = pg.display.set_mode(SIZE)
-    pg.display.set_caption("Mangoes 7 V1.4.1")
+    pg.display.set_caption("Mangoes 7 V1.4.2")
 
     # Variables
     done = False
