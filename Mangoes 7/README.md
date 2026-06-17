@@ -19,9 +19,9 @@ This *experience* puts you in the boots of Timmy Tuff Knuckles, a peach who had 
 
 | Input | Action |
 |-------|--------|
-| Spacebar | Begin experience |
-| Mouse | Attack |
-| Esc | Exit to menu/exit game |
+| Spacebar | [Begin experience] |
+| Mouse | [Attack] |
+| Esc | [Exit to menu/exit game] |
 
 ## Features
 
