@@ -1,12 +1,6 @@
-myself, Sierra 7 iOS, bensound and pixabay.com for assets
-
-# Project Title
+# Mangoes 7
 
 Timmy Tuff Knuckles' whole juiceline was pressed by the Mango clan. Your purpose? Hunt, juice, and blend mangoes.
-
-[Optional: drop in a screenshot or GIF of your game here so readers can see what the screen looks like when it opens.]
-
-![screenshot](assets/screenshot.png)
 
 ## Description
 
@@ -31,10 +25,10 @@ This *experience* puts you in the boots of Timmy Tuff Knuckles, a peach who had 
 
 ## Features
 
-- [ ] Screens open to show environments
-- [ ] Enemies and obstacles drawn on the screen
-- [ ] User-controlled elements, such as the crosshair
-- [ ] Crosshair has physics to emulate wielding a real crowbar
+- [✓] Screens open to show diverse environments
+- [✓] Enemies and obstacles drawn on the screen
+- [✓] User-controlled elements, such as the crosshair
+- [✓] Crosshair has physics to emulate wielding a real crowbar
 
 ## Dependencies
 
@@ -43,17 +37,25 @@ This *experience* puts you in the boots of Timmy Tuff Knuckles, a peach who had 
 
 ## Assets
 
-List any images, sounds, fonts, or other files in the `Assets/` folder, and where each came from:
-
-- `Assets/mango.png` - The mango is by me, and clipartmax.com for the knife
+- `Assets/mango.png` - The mango was drawn by me, and clipartmax.com for the knife
 - `Assets/ngbarrel.png` - eagle.justrite.com/lab-pack-salvage-poly-drum-55-gallon-metal-lever-lock-2x2-bung-holes-yellow-1656mbg2 
 - `Assets/crosshair.png` - procrosshairs.com, from donk
-- `Assets/menu_screen.png` - Screenshot of Sierra 7 by SHD Digital
+- `Assets/menu_screen.png` - From Sierra 7, by SHD Digital
+
+- `Assets/Wall1.png` - Textured by Alexei Kirsanov
+- `Assets/Wall2.png` - Textured by Alexei Kirsanov
+- `Assets/Wall3.png` - Textured by Alexei Kirsanov
+- `Assets/Wall4.png` - Textured by Alexei Kirsanov
+- `Assets/Wall5.png` - Textured by Alexei Kirsanov
+- `Assets/Wall6.png` - Textured by Alexei Kirsanov
+- `Assets/Wall7.png` - Textured by Alexei Kirsanov
 
 - `Assets/fortnite.mp3` - myinstants.com by Timchinium.exe
 - `Assets/mi-bombo.mp3` - myinstants.com by nathaniel8254
 - `Assets/pump-shotgun-fortnite-loud.mp3` - myinstants.com by harry443
 - `Assets/half-life-crowbar.mp3` - myinstants.com by myinstantstelegrambot
+- `Assets/AmogOST.mp3` - From Among Us, by Innersloth
+- 
 
 ## Starting Point (Class Code)
 
@@ -62,18 +64,16 @@ State which code from class you used as a starting point, as required by the gua
 - Started from `[14-pygame-screens]` - used for the menu screen to support my idea for a text-based exposition.
 
 ## AI Disclosure
-
-Disclose code or ideas where AI was used, including the **model** and **line numbers / commits**. Per the rubric, copy-and-pasted AI code is discouraged and, if used, **pasted lines need your own explanation of what it does and why**
-
-Claude Sonnet 4.6 was used to explain concepts, and Google Gemini was impossible to avoid as it appeared every time I searched for advice. I did not use Gemini's output.
+Claude Sonnet 4.6 was used to explain concepts. Google Gemini was unavoidable, but I did not interact with it outside of Google searches.
 
 ## Known Bugs / Limitations
 
-- [anything that doesn't work perfectly]
+- Death screen doesn't consistently show if you click off of the game as the clock runs out
 
 ## Possible Future Improvements
 
-- [ideas you'd add with more time]
+- More enemy types
+- More weapon types, with different properties regarding miss punishment and agility.
 
 ## Author
 
